@@ -1,0 +1,6 @@
+MySQL:
+  Address: localhost
+  Database: AuroraDB
+  Username: root
+  Password: password
+Number-Of-Signs: 0
